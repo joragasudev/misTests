@@ -1,3 +1,4 @@
 Dogo
 Pug
 Bulldog
+Caniche
